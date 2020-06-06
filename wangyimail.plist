@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http:120.202.26.176:8448/wangyimail.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http:120.202.26.176:8448/wangyimail.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
