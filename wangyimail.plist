@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.netease.mailmaster</string>
+				<string>com.phpto</string>
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>demo1</string>
 				<key>title</key>
-				<string>网易邮箱</string>
+				<string>photo1</string>
 			</dict>
 		</dict>
 	</array>
