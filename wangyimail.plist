@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.phpto</string>
+				<string>com.phpto.lk</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>2.90</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Test</string>
+				<string>Test78</string>
 				<key>title</key>
-				<string>photo1</string>
+				<string>photo167</string>
 			</dict>
 		</dict>
 	</array>
