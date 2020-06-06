@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string></string>
+					<string>http:120.202.26.176:8448/wangyimail.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wangyi.m1</string>
+				<string>com.net</string>
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
