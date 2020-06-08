@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http:120.202.26.176:8448/huoshan.ipa</string>
+					<string>http://120.202.26.176:8448/huoshan.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http:120.202.26.176:8448/huoshan.png</string>
+					<string>http://120.202.26.176:8448/huoshan.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.upower.photo6</string>
+				<string>upower.photo2</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>demo6</string>
+				<string>demo</string>
 				<key>title</key>
-				<string>HuoShan</string>
+				<string>百度</string>
 			</dict>
 		</dict>
 	</array>
