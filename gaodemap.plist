@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http:120.202.26.176:8448/gaode.ipa</string>
+					<string>http://120.202.26.176:8448/gaode.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http:120.202.26.176:8448/gaode.png</string>
+					<string>http://120.202.26.176:8448/gaode.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hello.test1</string>
+				<string>com.gao.de</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
