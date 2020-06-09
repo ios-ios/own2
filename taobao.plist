@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>upower.photo12</string>
+				<string>com.upower.photo12.small.hl</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
