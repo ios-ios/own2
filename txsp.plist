@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>upower.photo15</string>
+				<string>com.wentaidilo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
