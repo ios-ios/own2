@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http:120.202.26.176:8448/wangyi1.ipa</string>
+					<string>http://120.202.26.176:8448/wangyi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string></string>
+					<string>http://120.202.26.176:8448/wangyi.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.phpto.lk</string>
+				<string>com.wangdalu</string>
 				<key>bundle-version</key>
-				<string>2.90</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Test78</string>
+				<string>demo</string>
 				<key>title</key>
-				<string>photo167</string>
+				<string>网易邮箱</string>
 			</dict>
 		</dict>
 	</array>
