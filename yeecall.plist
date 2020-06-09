@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>upower.photo180</string>
+				<string>com.zengfankang</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>demo2</string>
 				<key>title</key>
-				<string>YeeCall2</string>
+				<string>YeeCall</string>
 			</dict>
 		</dict>
 	</array>
