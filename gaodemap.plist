@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>gaode.mm.map5</string>
+				<string>com.hello.test1</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
