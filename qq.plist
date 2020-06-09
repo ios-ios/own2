@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.our.qq.task</string>
+				<string>com.koukou</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
