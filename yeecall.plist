@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http:120.202.26.176:8448/yeecall.ipa</string>
+					<string>http://120.202.26.176:8448/yeecall.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string></string>
+					<string>http://120.202.26.176:8448/yeecall.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.liqinjiapingshen</string>
+				<string>com.yi.wangbi</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>demo2</string>
+				<string>demo</string>
 				<key>title</key>
 				<string>YeeCall</string>
 			</dict>
