@@ -19,14 +19,6 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string></string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
 					<string>http://120.202.26.176:8448/youku.png</string>
 				</dict>
 			</array>
